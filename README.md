@@ -24,9 +24,7 @@ An arcade-inspired coding game where bite-sized lessons and challenges take you 
 
 | Coding challenge | Voltage Grove |
 |:---:|:---:|
-| <!-- Add screenshots/challenge.png --> ![Code Quest coding challenge](screenshots/challenge.png) | <!-- Add screenshots/voltage-grove.png --> ![Voltage Grove theme](screenshots/voltage-grove.png) |
-
-> To use these slots, create `screenshots/` and save your images with the filenames shown above. You can change the image paths in this table to match your own filenames.
+| <!-- Add screenshots/challenge.png --> ![Code Quest coding challenge](screenshots/Challenge.png) | <!-- Add screenshots/voltage-grove.png --> ![Voltage Grove theme](screenshots/voltage-grove.png) |
 
 ---
 
