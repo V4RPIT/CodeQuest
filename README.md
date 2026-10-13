@@ -18,8 +18,6 @@ An arcade-inspired coding game where bite-sized lessons and challenges take you 
 
 ## 📸 Screenshots
 
-Add your screenshots to a `screenshots/` folder in the project, then use these ready-made slots. Suggested captures: the title screen, world map, a challenge, and the Voltage Grove theme.
-
 | Home screen | World map |
 |:---:|:---:|
 | <!-- Add screenshots/home.png --> ![Code Quest home screen](screenshots/home.png) | <!-- Add screenshots/world-map.png --> ![Code Quest world map](screenshots/world-map.png) |
