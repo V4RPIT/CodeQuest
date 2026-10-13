@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#5C94FC">
+<title>Code Quest: learn to code, plumber-style</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Fredoka:wght@500;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hud" id="hud" hidden>
+  <button class="hbtn" data-act="map" aria-label="Go to world map">MAP</button>
+  <div class="stat" title="Coins" aria-label="Coins" aria-live="polite"><i class="coinico" aria-hidden="true"></i><b id="hCoins">0</b></div>
+  <div class="stat" title="Stars" aria-label="Stars" aria-live="polite"><span id="hStarIco" aria-hidden="true"></span><b id="hStars">0</b></div>
+  <div class="grow"></div>
+  <div id="hearts" aria-label="Hearts left"></div>
+  <button class="hbtn" id="mute" data-act="mute" aria-label="Toggle sound effects">Sound on</button>
+</header>
+
+<main id="app"></main>
+
+<div class="modal" id="modal" hidden role="dialog" aria-modal="true"><div class="mbox" id="mbox"></div></div>
+
+<noscript><p style="padding:20px;font-weight:700">Code Quest needs JavaScript to run. Please turn it on in your browser.</p></noscript>
+
+<script src="javascript.js"></script>
+</body>
+</html>
